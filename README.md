@@ -3,7 +3,22 @@ cpp-unicodelib
 
 [![](https://github.com/yhirose/cpp-unicodelib/workflows/CMake/badge.svg)](https://github.com/yhirose/cpp-unicodelib/actions)
 
-A C++17 single-file header-only Unicode library. (Unicode 16.0.0)
+A C++17 single-file header-only Unicode library, by [Yuji Hirose](https://github.com/yhirose). (Unicode 16.0.0)
+
+Installation
+------------
+
+Run:
+```bash
+$ npm i cpp-unicodelib.cxx
+```
+
+And then include `unicodelib.h` as follows:
+```c
+#include "node_modules/cpp-unicodelib.cxx/unicodelib.h"
+#include "node_modules/cpp-unicodelib.cxx/unicodelib_names.h"
+#include "node_modules/cpp-unicodelib.cxx/unicodelib_encodings.h"
+```
 
 API
 ---
@@ -223,3 +238,10 @@ License
 -------
 
 MIT license (© 2023 Yuji Hirose)
+
+<br>
+<br>
+
+
+[![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/cpp-unicodelib.cxx)
