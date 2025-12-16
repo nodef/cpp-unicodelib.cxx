@@ -1,0 +1,24 @@
+{
+  "name": "cpp-unicodelib.cxx",
+  "version": "1.2024.10",
+  "description": "A C++17 header-only Unicode library. (Unicode 16.0.0); yhirose (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "unicode",
+    "utf8",
+    "utf16",
+    "utf32",
+    "header-only"
+  ],
+  "homepage": "https://github.com/nodef/cpp-unicodelib.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/cpp-unicodelib.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/cpp-unicodelib.cxx.git"
+  },
+  "license": "MIT",
+  "main": "cpp-unicodelib.h"
+}
